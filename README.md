@@ -16,12 +16,15 @@ I've made some *Interesting* projects in scratch, and some mildly complex games 
 About actual languages I can speak mostly fluent english and spanish (I speak spanish natively). 
 
 About programing languages... 
-Right now i dont have so advanced knowledge in lots of languages, but im really getting strong with C.
-I've tried doing diferent projects in raw html and css, i havent uploaded them tho because most of them are pretty lame :p
+I know C, however im a little bit rusty with it, currently im working using java.
+
+I use python a lot in CS courses, because it is really easy and fast to use, and to most of
+my projects i really just want to get the results i want, and not necesarily need efficient results.
 
 
-I of course know some basic bash and work pretty well with the terminal, that is because..
+I was learning js, because i wanted to do a project on react, but i left that on hold. Mostly because i forgot.
 
+---
 ## I really like linux!
 ### Here you can see my desktop enviroment on ubuntu.
 
@@ -38,15 +41,10 @@ But since im feeling really confortable in ubuntu with cinnamon, i dont think th
 --- 
 
 ## Things i want to do
-
-- Learning C++ : Im feeling a little tired of C, and im hoping to change to c++ in the near future. Since i really want to start making programs wich work with a gui, and the attemps i've made doing that with c had been kind of rough.
-
-- Making some dumb programing language: I dont really know a lot about compilers, but have this project in mind that basically would be, making a compiler in c that reads a file and translates it to c, and then compiles it with c. There is probably easier ways to do this without translating to c, but im interested because that idea sounds kinda funny.
+- I want to learn to make games as a hobby, and join some game jam, making a project with friends.
+- Play games
 
 
 ## Things im doing
 
-Right now with college i spend most of my time studying algebra, physics, and some computer science related courses. Such as Data Structures, and Data Analisis with python. 
-
-From there i really like math, and phyisics. Kinda hate Data Analisis, and like a lot more Data Structures!
-I guess it is mostly because is in that class that i get to work on more sofisticated projects.
+Trying to survive
