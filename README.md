@@ -37,9 +37,10 @@ This is the Desktop Enviroment that i had installed on my laptop, wich i use to 
 --- 
 
 ## Things i want to do
-- I want to learn to make games, a little more specific would be:
-- I wana make a chess ai, and im thinking to then convert it into something silly like chess rpg
-- I wanna make a 2d space game, with realistic gravity simulation. I would say this is something that im working the most, and i hope to finish this project or at least a version, to the end of the year.
+- I want to participate in a game jam.
+- Work at some place related to programing.
+- Study a lot.
+- 
 ---
 
 - I'd like to learn C# .NET because i have been using c# and i find it to be very confortable. 
@@ -47,7 +48,8 @@ This is the Desktop Enviroment that i had installed on my laptop, wich i use to 
 
 ## Things im doing
 
-Taking lots of interesting Uni courses, such as: Os and hardware, AI, Databases. 
+Taking lots of interesting Uni courses, such as: Computer Networks, Statistics and finance. 
 
 
 Also im debating myself if i should build a physics engine for godot in order to simulate gravity or not. 
+Probably wont do neither...
